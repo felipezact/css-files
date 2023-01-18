@@ -1,7 +1,7 @@
 .catCol {
-  background-color: pink;
+  background-color: $red;
 }
 
 #catCol {
-  background-color: pink;
+  background-color: $red;
 }
